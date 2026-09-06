@@ -11,7 +11,7 @@ Last updated: 2026-09-06
 - אין אנליטיקה, אין מזהי פרסום, אין ערכות פיתוח של צד שלישי.
 - תמונות הקבלות, המסמכים, פרטי העסק והצעות המחיר נשמרים אך ורק על המכשיר שלכם ונמחקים עם הסרת האפליקציה.
 - גישה לתמונות נעשית דרך בורר התמונות של המערכת, שמעביר לאפליקציה רק את התמונה שבחרתם. המצלמה משמשת לצילום מסמכים בלבד.
-- זיהוי הטקסט (Vision) ומודל השפה של Apple פועלים על המכשיר. הטקסט אינו נשלח ל-Apple או לכל גורם אחר.
+- זיהוי הטקסט (Apple Vision ומנוע Tesseract המובנה באפליקציה) ומודל השפה של Apple פועלים על המכשיר. הטקסט אינו נשלח ל-Apple או לכל גורם אחר.
 - קבצי PDF ו-CSV נוצרים על המכשיר ומשותפים רק כשאתם בוחרים לשתף אותם.
 
 שאלות: bluzerasi@gmail.com
@@ -25,7 +25,7 @@ Kabala does not collect, store or transmit personal data of any kind.
 - No analytics, no advertising identifiers, no third-party SDKs.
 - Receipt photos, documents, business details and quotes are stored only on your device and deleted when you delete the app.
 - Photos are accessed through the system picker, which hands the app only the image you chose. The camera is used only to photograph documents.
-- Text recognition (Vision) and Apple's language model run on the device. Text is never sent to Apple or anyone else.
+- Text recognition (Apple Vision and the Tesseract engine bundled in the app) and Apple's language model run on the device. Text is never sent to Apple or anyone else.
 - PDF and CSV files are generated on the device and leave it only when you choose to share them.
 
 Questions: bluzerasi@gmail.com

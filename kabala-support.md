@@ -6,7 +6,7 @@
 
 - לשאלות, דיווח על תקלה או הצעות: bluzerasi@gmail.com
 - האפליקציה מספקת מידע כללי בלבד ואינה תחליף להנהלת חשבונות, לרואה חשבון או ליועץ מס.
-- זיהוי טקסט בעברית תלוי בתמיכת המכשיר; במכשירים ללא תמיכה האפליקציה קוראת מספרים ותאריכים ומבקשת להשלים את שם העסק. מסך "אודות" מציג את המצב.
+- זיהוי טקסט בעברית נעשה על המכשיר עם מנוע Tesseract המובנה. קבלות דהויות או מקומטות עשויות לדרוש תיקון במסך הבדיקה.
 
 ## English
 
@@ -14,4 +14,4 @@ Kabala is a back-office app for Israeli freelancers: receipt capture with VAT an
 
 - Questions, bug reports, suggestions: bluzerasi@gmail.com
 - The app provides general information only and is not a substitute for bookkeeping, a certified accountant or a tax adviser.
-- Hebrew text recognition depends on device support; where absent, the app reads numbers and dates and asks you to complete the vendor name. The About screen shows the status.
+- Hebrew text recognition runs on the device with the bundled Tesseract engine. Faded or crumpled receipts may need corrections on the review screen.
