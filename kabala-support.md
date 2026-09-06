@@ -15,3 +15,10 @@ Kabala is a back-office app for Israeli freelancers: receipt capture with VAT an
 - Questions, bug reports, suggestions: bluzerasi@gmail.com
 - The app provides general information only and is not a substitute for bookkeeping, a certified accountant or a tax adviser.
 - Hebrew text recognition runs on the device with the bundled Tesseract engine. Faded or crumpled receipts may need corrections on the review screen.
+
+## דרכים להכניס מסמך / Ways to add a document
+
+- צילום ברצף, בחירה מכמה תמונות, ייבוא PDF או תמונה מהקבצים, "פתח ב-קבלה" מכל אפליקציה, שיתוף מוואטסאפ או מהמייל דרך כפתור השיתוף, או הזנה ידנית.
+- Camera loop, multi-select from Photos, PDF or image from Files, "Open in Kabala" from any app, the share sheet from WhatsApp or Mail, or manual entry.
+- פירוט אשראי: ייצאו CSV או Excel מחברת האשראי וייבאו במסך "התאמת פירוט אשראי". חיובים ללא מסמך מוצגים ברשימה.
+- Card statements: export CSV or Excel from the card company and import it on the reconciliation screen. Charges without a document are listed.
