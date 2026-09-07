@@ -12,4 +12,9 @@ Receipts, VAT return and price quotes for freelancers.
 - [מדיניות פרטיות / Privacy policy](kabala-privacy)
 - [תמיכה / Support](kabala-support)
 
+## Zakaut (זכאות)
+Six Israeli entitlement checks: unemployment, discharged soldier, survivor benefits, foreign caregiver cost, scholarships, vehicle.
+- [מדיניות פרטיות / Privacy policy](zakaut-privacy)
+- [תמיכה / Support](zakaut-support)
+
 Contact: bluzerasi@gmail.com
