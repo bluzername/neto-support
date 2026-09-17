@@ -1,2 +1,5 @@
 title: Bluzer apps
 theme: jekyll-theme-minimal
+exclude:
+  - README.md
+  - scripts
