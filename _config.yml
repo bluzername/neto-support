@@ -3,3 +3,6 @@ theme: jekyll-theme-minimal
 exclude:
   - README.md
   - scripts
+  - Gemfile
+  - Gemfile.lock
+  - vendor
