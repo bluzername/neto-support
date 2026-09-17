@@ -22,9 +22,9 @@ These are the URLs entered in App Store Connect as the privacy policy and suppor
 
 ## zakaut-rates.json
 
-`zakaut-rates.json` is a versioned data file fetched by the Zakaut app at
-https://bluzername.github.io/neto-support/zakaut-rates.json. It is served as-is by GitHub Pages
-(no Jekyll processing). Schema:
+`zakaut-rates.json` is a versioned data file fetched by the Zakaut app from
+https://bluzername.github.io/neto-support/zakaut-rates.json (served as-is by GitHub Pages, no Jekyll
+processing). Schema:
 
 | Key | Type | Meaning |
 |-----|------|---------|
@@ -55,7 +55,7 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Then open http://127.0.0.1:4000/neto-support/ (Jekyll prints the exact URL).
+Then open the local URL Jekyll prints (port 4000, path `/neto-support/`).
 
 Without Ruby, `python3 -m http.server` only serves the raw `.md` files and `zakaut-rates.json`;
 it does not render the Markdown or the theme, so use it only to check the JSON.
